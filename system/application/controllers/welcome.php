@@ -19,6 +19,9 @@ class Welcome extends CI_Controller {
 	 */
 	public function index()
 	{
+		$users = $this->mongo_db->get_where('users', array('name' => 'thomas'));
+		
+		var_dump($users);
 		$this->load->view('welcome_message');
 	}
 }
