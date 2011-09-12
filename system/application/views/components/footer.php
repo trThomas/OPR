@@ -1,0 +1,13 @@
+<div id="ms-footer">
+	<div id="ms-navi-footer">
+		<dl class="ms-navi">
+			<dd>
+				<ul class="ms-navi">
+					<li><a href="/content/germany/mpc/mpc_germany_website/de/home_mpc/copyright.html" onclick="var neww = window.open('/content/germany/mpc/mpc_germany_website/de/home_mpc/copyright.html', 'contentgermanympcmpc_germany_websitedehome_mpccopyrighthtml', 'left=20,top=20,toolbars=0,scrollbars=1,location=0,statusbars=0,menubars=1,resizable=0,width=440,height=550'); if(neww){neww.focus()}; return false;" onmouseover="status='/content/germany/mpc/mpc_germany_website/de/home_mpc/copyright.html';" onmouseout="status='';" target="contentgermanympcmpc_germany_websitedehome_mpccopyrighthtml">&copy; 2011. Daimler AG. Alle Rechte vorbehalten (Anbieter)</a></li>
+					<li><a href="/content/germany/mpc/mpc_germany_website/de/home_mpc/cookies.html" onclick="var neww = window.open('/content/germany/mpc/mpc_germany_website/de/home_mpc/cookies.html', 'contentgermanympcmpc_germany_websitedehome_mpccookieshtml', 'left=20,top=20,toolbars=0,scrollbars=1,location=0,statusbars=0,menubars=1,resizable=0,width=440,height=550'); if(neww){neww.focus()}; return false;" onmouseover="status='/content/germany/mpc/mpc_germany_website/de/home_mpc/cookies.html';" onmouseout="status='';" target="contentgermanympcmpc_germany_websitedehome_mpccookieshtml">Cookies</a></li>
+					<li><a href="/content/germany/mpc/mpc_germany_website/de/home_mpc/privacy_statement.html" onclick="var neww = window.open('/content/germany/mpc/mpc_germany_website/de/home_mpc/privacy_statement.html', 'contentgermanympcmpc_germany_websitedehome_mpcprivacy_statementhtml', 'left=20,top=20,toolbars=0,scrollbars=1,location=0,statusbars=0,menubars=1,resizable=0,width=440,height=550'); if(neww){neww.focus()}; return false;" onmouseover="status='/content/germany/mpc/mpc_germany_website/de/home_mpc/privacy_statement.html';" onmouseout="status='';" target="contentgermanympcmpc_germany_websitedehome_mpcprivacy_statementhtml">Datenschutz</a></li><li class="ms-navi-last-li"><a href="/content/germany/mpc/mpc_germany_website/de/home_mpc/legal_notice.html" onclick="var neww = window.open('/content/germany/mpc/mpc_germany_website/de/home_mpc/legal_notice.html', 'contentgermanympcmpc_germany_websitedehome_mpclegal_noticehtml', 'left=20,top=20,toolbars=0,scrollbars=1,location=0,statusbars=0,menubars=1,resizable=0,width=440,height=550'); if(neww){neww.focus()}; return false;" onmouseover="status='/content/germany/mpc/mpc_germany_website/de/home_mpc/legal_notice.html';" onmouseout="status='';" target="contentgermanympcmpc_germany_websitedehome_mpclegal_noticehtml">Rechtliche Hinweise</a></li>
+				</ul>
+			</dd>
+		</dl>
+	</div>
+</div>

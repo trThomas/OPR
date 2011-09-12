@@ -5,7 +5,6 @@
    <title>Template</title>
    <?= $_scripts ?>
    <?= $_styles ?>
-  
 </head>
 <body>
    
